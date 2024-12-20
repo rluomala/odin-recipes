@@ -3,4 +3,4 @@ This project covers the creation of a basic recipe website, involving
 
 Skills demonstrated will include:
 - basic knowledge of html language
-- utilization of links on a webpage
+- utilization of links on a webpagex
